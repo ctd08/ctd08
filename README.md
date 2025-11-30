@@ -66,4 +66,4 @@ Anything that helps me connect engineering with real human impact.
 ## 🌲 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/cristina-diana-tutunariu/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctd08)](https://github.com/ctd08/github-readme-stats)
+[![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctd08)](https://github.com/ctd08/github-readme-stats)
