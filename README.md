@@ -1,5 +1,7 @@
 # 🌿 Cristina — Computer Engineering Student | Future MedTech Engineer
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 Hi! I'm Cristina — a Computer Engineering student with a growing passion for **MedTech**, **neuroscience-inspired computing**, and **AI that supports human health**.  
 I love building things that connect **software, hardware, and people** — whether it’s a small robotics project, a UI prototype, or experimental AI models.
 
