@@ -15,6 +15,7 @@ I’m motivated by curiosity, structure, and the desire to understand how things
 A long-term learning project that started as a front-end learning challenge and is now evolving into my main digital space.
 
 **V1 Built with:** HTML · CSS · JavaScript
+
 **V2 Buit with:** TBD
 
 **What I’m exploring:**
